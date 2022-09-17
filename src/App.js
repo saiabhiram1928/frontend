@@ -1,15 +1,17 @@
 import React from 'react'
 import Header from './components/Header';
-import Login from './components/Login';
+import Login from './pages/login/Login';
 import Home from './pages/Home/Home';
 import About from './pages/About';
 import Error from './pages/Error';
 import { Routes,Route, Switch, NavLink, Link } from 'react-router-dom';
 import Footer from './components/Footer';
 import Context from './context/Context';
+
 const App = () => {
   let login=true;
-  if(login){
+ 
+
     return(
       <Context>
       <div class="flex flex-col h-screen">
@@ -23,6 +25,7 @@ const App = () => {
   <Route path="/" element={<Home/>}/>
   <Route path="/Notfound"  element={<Error/>}/>
   <Route path="/*"  element={<Error/>}/>
+  <Route path="/Login"  element={<Login/>}/>
 
   </Routes>
 </main>
@@ -31,14 +34,8 @@ const App = () => {
       </div>
       </Context>
     )
-  }else{
-    return(
-<div>
-  <Login/>
   
-  </div>
-    )
   }
-}
+
 
 export default App
