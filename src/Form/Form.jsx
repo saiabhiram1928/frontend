@@ -36,6 +36,11 @@ const data={
 
 }
 submitData(data)
+setMail("")
+setName("")
+setRegno("")
+setRollno("")
+setTel("")
 }
   return (
     <div>
