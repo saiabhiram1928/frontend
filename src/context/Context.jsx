@@ -4,12 +4,12 @@ import React,{useState,useEffect,createContext} from 'react'
 const Annoucement_Context=createContext()
 const Context = ({children}) => {
    const [annoucement, setAnnoucement] = useState([])
-   const [formData, setFormData] = useState([])
+   
    const [loading, setloading] = useState(true)
-   const [formloding , setformloding] = useState(true)
+  
    useEffect(() => {
      fetchData();
-     fetchFormData();
+   
    }, [])
    
    const fetchData=async()=>{
@@ -19,15 +19,24 @@ const Context = ({children}) => {
     
     setloading(false);
   }
-  const fetchFormData=async()=>{
-    const data=await fetch("http://localhost:5000/Form?_sort=id&order=desc")
-    const datafetch=await data.json()
-    setFormData(datafetch);
-    setformloding(false);
+  const submitData = async(d) => {
+
+    const data= await fetch("http://localhost:5000/FormData",{
+      method:'POST',
+      headers:{
+        'Content-Type':'application/json'
+      },
+    
+      body:JSON.stringify(d),
+      
+    
+    })
+    console.log(d)
+   
   }
   return (
     <div>
-        <Annoucement_Context.Provider value={{annoucement,loading,formData,formloding}}>
+        <Annoucement_Context.Provider value={{annoucement,loading,submitData}}>
                   {children}
             </Annoucement_Context.Provider>
 

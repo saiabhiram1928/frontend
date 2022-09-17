@@ -1,70 +1,46 @@
 {
-    "Announcements":[
-        {
-            "id":1,
-            "club_name": "club-1",
-            "title":"title-1",
-            "department":"department",
-            "study_year":"year",
-            "info":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut neque magni reiciendis voluptatum, molestias eos consectetur cumque laborum delectus, aperiam eum officiis nobis rem voluptatibus debitis assumenda porro sequi, placeat veritatis possimus voluptatem inventore enim! Nostrum tempora explicabo numquam! Similique!"
-
-        },
-        {
-            "id":2,
-            "club_name": "club-2",
-            "title":"title-2",
-            "department":"department",
-            "study_year":"year",
-            "info":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut neque magni reiciendis voluptatum, molestias eos consectetur cumque laborum delectus, aperiam eum officiis nobis rem voluptatibus debitis assumenda porro sequi, placeat veritatis possimus voluptatem inventore enim! Nostrum tempora explicabo numquam! Similique!"
-
-        },
-        {
-            "id":3,
-            "club_name": "club-3",
-            "title":"title-3",
-            "department":"department",
-            "study_year":"year",
-            "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sed molestias repellendus iure, dolorem minima at error explicabo sapiente blanditiis aliquid saepe aliquam quia, architecto, mollitia magni quod tenetur nisi voluptatum reiciendis et sequi! Rem minima et eveniet dicta? Dolorum blanditiis ea quam, explicabo minima ab reiciendis expedita excepturi voluptas necessitatibus nemo ex ducimus vel molestiae placeat quo ut similique natus rem harum doloremque? Eum consequuntur, temporibus delectus voluptatem amet libero hic? Consequuntur porro dolorem error doloremque dicta repellendus? Adipisci facere nihil iste error eum, fugiat ducimus distinctio omnis. Aperiam nisi necessitatibus porro omnis, quam nostrum error cupiditate nesciunt perferendis iste unde deserunt laboriosam molestiae eos explicabo? Quod molestiae animi recusandae velit eaque at, nobis numquam sit repellat. Id, esse aspernatur est perferendis rerum quia nisi quos optio error facilis accusantium tempora quaerat eos architecto assumenda. Vero qui provident sit maxime. Iusto placeat quod eaque vitae. Nihil temporibus ipsum doloribus similique est impedit atque ut rem voluptate soluta dolorum itaque tempore possimus commodi tempora magnam, ad doloremque voluptas eveniet ex? Consequatur, saepe doloribus. Placeat aliquam quis eum officia eveniet magnam fugit alias, deserunt delectus reprehenderit vel assumenda magni praesentium, harum voluptate eius rem ex. Soluta ea laborum voluptatem quia corporis sit ut, quas sed dolor esse libero aspernatur accusantium similique eveniet recusandae suscipit doloremque repellendus rem optio harum ex quos cumque! Asperiores optio dolores quos aspernatur reprehenderit debitis ut, a excepturi neque voluptates. Architecto perferendis hic vel iure dolorem repudiandae doloremque eaque nihil, maxime accusantium totam porro eveniet in velit saepe ex neque, blanditiis vitae veniam explicabo, a dolorum facere facilis! Non exercitationem eum accusamus officiis tempora dolore veniam ut quod laborum dicta deleniti error sed at, corporis harum cum perferendis quibusdam earum. Totam incidunt, laudantium maiores aliquam inventore at sit sequi voluptates dicta quis mollitia, quisquam dolor impedit culpa magnam. Explicabo enim sint illo, nesciunt a odit aspernatur aliquam voluptate fuga expedita. Tempora cupiditate at repellat magni soluta repudiandae sequi rem cum. Recusandae sunt fugiat provident obcaecati assumenda animi, voluptate aliquam? Rerum, corrupti quos? Iure beatae dolores ipsum hic commodi deserunt maxime sequi nesciunt praesentium quaerat. Voluptatem autem error natus, veritatis perferendis excepturi suscipit rerum cumque molestias quaerat qui dicta. Perspiciatis iusto illo placeat fugit dolores deleniti sapiente, asperiores pariatur quasi perferendis ullam tempora sunt at quod optio quam non cumque? Consequatur architecto vitae nam? Provident doloribus ab eius porro autem iste vel, itaque, fugiat aliquam corrupti tenetur reiciendis!"
-
-        },
-        {
-            "id":4,
-            "club_name": "club-3",
-            "title":"title-3",
-            "department":"department",
-            "study_year":"year",
-            "info":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sed molestias repellendus iure, dolorem minima at error explicabo sapiente blanditiis aliquid saepe aliquam quia, architecto, mollitia magni quod tenetur nisi voluptatum reiciendis et sequi! Rem minima et eveniet dicta? Dolorum blanditiis ea quam, explicabo minima ab reiciendis expedita excepturi voluptas necessitatibus nemo ex ducimus vel molestiae placeat quo ut similique natus rem harum doloremque? Eum consequuntur, temporibus delectus voluptatem amet libero hic? Consequuntur porro dolorem error doloremque dicta repellendus? Adipisci facere nihil iste error eum, fugiat ducimus distinctio omnis. Aperiam nisi necessitatibus porro omnis, quam nostrum error cupiditate nesciunt perferendis iste unde deserunt laboriosam molestiae eos explicabo? Quod molestiae animi recusandae velit eaque at, nobis numquam sit repellat. Id, esse aspernatur est perferendis rerum quia nisi quos optio error facilis accusantium tempora quaerat eos architecto assumenda. Vero qui provident sit maxime. Iusto placeat quod eaque vitae. Nihil temporibus ipsum doloribus similique est impedit atque ut rem voluptate soluta dolorum itaque tempore possimus commodi tempora magnam, ad doloremque voluptas eveniet ex? Consequatur, saepe doloribus. Placeat aliquam quis eum officia eveniet magnam fugit alias, deserunt delectus reprehenderit vel assumenda magni praesentium, harum voluptate eius rem ex. Soluta ea laborum voluptatem quia corporis sit ut, quas sed dolor esse libero aspernatur accusantium similique eveniet recusandae suscipit doloremque repellendus rem optio harum ex quos cumque! Asperiores optio dolores quos aspernatur reprehenderit debitis ut, a excepturi neque voluptates. Architecto perferendis hic vel iure dolorem repudiandae doloremque eaque nihil, maxime accusantium totam porro eveniet in velit saepe ex neque, blanditiis vitae veniam explicabo, a dolorum facere facilis! Non exercitationem eum accusamus officiis tempora dolore veniam ut quod laborum dicta deleniti error sed at, corporis harum cum perferendis quibusdam earum. Totam incidunt, laudantium maiores aliquam inventore at sit sequi voluptates dicta quis mollitia, quisquam dolor impedit culpa magnam. Explicabo enim sint illo, nesciunt a odit aspernatur aliquam voluptate fuga expedita. Tempora cupiditate at repellat magni soluta repudiandae sequi rem cum. Recusandae sunt fugiat provident obcaecati assumenda animi, voluptate aliquam? Rerum, corrupti quos? Iure beatae dolores ipsum hic commodi deserunt maxime sequi nesciunt praesentium quaerat. Voluptatem autem error natus, veritatis perferendis excepturi suscipit rerum cumque molestias quaerat qui dicta. Perspiciatis iusto illo placeat fugit dolores deleniti sapiente, asperiores pariatur quasi perferendis ullam tempora sunt at quod optio quam non cumque? Consequatur architecto vitae nam? Provident doloribus ab eius porro autem iste vel, itaque, fugiat aliquam corrupti tenetur reiciendis!"
-
-        }
-
-
-    ],
-    "Form":[
-        {
-            "id":1,
-            "Name":"Enter your name",
-            "Registration_num":"Enter the registration num",
-            "Roll_num":"Enter the roll num",
-            "Year":"Enter of study"
-    
-        },  {
-            "id":2,
-            "Name":"Enter your name",
-            "Registration_num":"Enter the registration num",
-            "Roll_num":"Enter the roll num"
-           
-    
-        },  {
-            "id":3,
-            "Name":"Enter your name",
-            "Registration_num":"Enter the registration num"
-           
-    
-        },  {
-            "id":4,
-            "Name":"Enter your name"
-           
-    
-        }
-    ]
+  "Announcements": [
+    {
+      "id": 1,
+      "club_name": "club-1",
+      "title": "title-1",
+      "department": "department",
+      "study_year": "year",
+      "info": "Lorem ipsum dolor!"
+    },
+    {
+      "id": 2,
+      "club_name": "club-2",
+      "title": "title-2",
+      "department": "department",
+      "study_year": "year",
+      "info": "Lorem ipsum dolor!"
+    },
+    {
+      "id": 3,
+      "club_name": "club-3",
+      "title": "title-3",
+      "department": "department",
+      "study_year": "year",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing !"
+    },
+    {
+      "id": 4,
+      "club_name": "club-3",
+      "title": "title-3",
+      "department": "department",
+      "study_year": "year",
+      "info": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sed molestias repellendus iure, dolorem minima at error explicabo sapiente blan"
+    }
+  ],
+  "FormData": [
+    {
+      "mail": "saiabhiram1928@gmail.com",
+      "name": "1234",
+      "reg_no": "1234",
+      "roll_no": "1234",
+      "phone": "123-456-7890",
+      "id": 1
+    }
+  ]
 }
